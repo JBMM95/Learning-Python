@@ -7,7 +7,7 @@ l'interlocutore è più grande, più piccolo di lui o hanno la stessà età.
 import random
 
 nome_robot = "Jarvis"
-età_robot = random.randint(1,50) #estrare un numero random intero da 1 a 50
+età_robot = random.randint(1,50) #estrae un numero random intero da 1 a 50
 #esiste anche la funzione che sceglie il passo    
 
 print("Ciao! Io sono ",nome_robot," e ho ",str(età_robot)) #si deve trasformare
