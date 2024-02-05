@@ -1,5 +1,5 @@
 """
-robot che si presenta, dice la sua età, chiede nome e età dell'interlocutore
+Jarvis si presenta, dice la sua età, chiede nome e età dell'interlocutore
 interagendo con lui. Alla fine farà il confrontò delle età, dando riscontro se 
 l'interlocutore è più grande, più piccolo di lui o hanno la stessà età.
 """
